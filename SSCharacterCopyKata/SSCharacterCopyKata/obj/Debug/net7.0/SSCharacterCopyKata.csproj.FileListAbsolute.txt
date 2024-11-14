@@ -1,0 +1,12 @@
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/bin/Debug/net7.0/SSCharacterCopyKata.deps.json
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/bin/Debug/net7.0/SSCharacterCopyKata.dll
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/bin/Debug/net7.0/SSCharacterCopyKata.pdb
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/obj/Debug/net7.0/SSCharacterCopyKata.csproj.AssemblyReference.cache
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/obj/Debug/net7.0/SSCharacterCopyKata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/obj/Debug/net7.0/SSCharacterCopyKata.AssemblyInfoInputs.cache
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/obj/Debug/net7.0/SSCharacterCopyKata.AssemblyInfo.cs
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/obj/Debug/net7.0/SSCharacterCopyKata.csproj.CoreCompileInputs.cache
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/obj/Debug/net7.0/SSCharacterCopyKata.dll
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/obj/Debug/net7.0/refint/SSCharacterCopyKata.dll
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/obj/Debug/net7.0/SSCharacterCopyKata.pdb
+/Users/SSHIBAMBU/work/SSCharacterCopyKata/SSCharacterCopyKata/obj/Debug/net7.0/ref/SSCharacterCopyKata.dll
