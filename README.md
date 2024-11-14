@@ -1,7 +1,7 @@
 # SSCharacterCopyKata
 
 To Run Unit Test
-`cd SSCharacterCopyKata`
+`cd SSCharacterCopyKata` THEN
 `dotnet test`
 
 (Prerequisites) Install Moq:
